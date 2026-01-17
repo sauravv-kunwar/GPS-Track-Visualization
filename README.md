@@ -1,42 +1,42 @@
 
-🗺️ GPS Track Visualization
+# 🗺️ GPS Track Visualization
 
-This project visualizes GPS route data on an interactive OpenStreetMap using Python and Folium.
-The output is an HTML map showing a continuous path created from latitude and longitude coordinates.
+- This project visualizes GPS route data on an interactive OpenStreetMap using Python and Folium.
+- The output is an HTML map showing a continuous path created from latitude and longitude coordinates.
 
-📌 Features
+# 📌 Features
 
-Interactive OpenStreetMap
+- Interactive OpenStreetMap
 
-GPS route displayed as a polyline
+- GPS route displayed as a polyline
 
-Zoom and pan support
+- Zoom and pan support
 
-Browser-based HTML output
+- Browser-based HTML output
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
-Python
+- Python
 
-Folium
+- Folium
 
-OpenStreetMap
+- OpenStreetMap
 
-Jupyter Notebook
+- Jupyter Notebook
 
-📂 Files
+# 📂 Files
 
-Project.ipynb – map generation notebook
+- Project.ipynb – map generation notebook
 
-gpx_track.html – interactive map output
+- gpx_track.html – interactive map output
 
-osm_traces.db – GPS data
+- osm_traces.db – GPS data
 
-▶️ Usage
+# ▶️ Usage
 
-Open gpx_track.html in a web browser
+- Open gpx_track.html in a web browser
 or run Project.ipynb to generate the map.
 
-📚 Purpose
+# 📚 Purpose
 
-Educational project for learning GPS data visualization and GIS concepts.
+- Educational project for learning GPS data visualization and GIS concepts.
